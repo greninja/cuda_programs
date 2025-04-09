@@ -4,16 +4,17 @@ This repository contains CUDA programming examples and implementations. These pr
 
 ## Reference
 
-I heavily referred the classic book:
+I heavily referred one of the classic books:
 
-- **Programming Massively Parallel Processors: A Hands-on Approach** by Wen-mei W. Hwu, David B. Kirk, and Izzat El Hajj
+**Programming Massively Parallel Processors: A Hands-on Approach** by Wen-mei W. Hwu, David B. Kirk, and Izzat El Hajj
 
-to get a grasp of CUDA fundamentals.
-
+to get a grasp of CUDA fundamentals and more advanced topics.
 
 ## Requirements
+
 - NVIDIA GPU with CUDA support
 - CUDA Toolkit
+- NVCC (NVIDIA CUDA Compiler)
 - C++ compiler
 
 ## Example: building and running
